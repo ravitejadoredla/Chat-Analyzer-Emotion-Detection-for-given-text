@@ -7,8 +7,6 @@ Emotion classification attempts to detect the emotional content in the input tex
   * [Data preparation](#data-preparation)
   * [Text cleaning](#text-cleaning)
   * [Model building](#model-building)
-* [Project demo](#demo)
-* [Extras and Mentions](#extras-and-mentions)   
 
 # Features
 The text emotion classification Logistic Regression project facets:
