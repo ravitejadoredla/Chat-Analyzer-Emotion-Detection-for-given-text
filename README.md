@@ -39,3 +39,5 @@ The three text cleaning techniques that were performed on the text emotion datas
 The linear sequence of steps required to prepare the data, tune the model, and transform the predictions is called the modeling pipeline. Modern machine learning libraries like the scikit-learn Python library allow this sequence of steps to be defined and used correctly (without data leakage) and consistently (during evaluation and prediction). 
 
 The linear regression pipeline that was created takes as an argument a vectorizer (the CountVectorizer transformer) and an estimator as steps 
+
+Use this command to run python file: python - m streamlit run app.py
